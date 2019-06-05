@@ -1,0 +1,13 @@
+.article {
+  margin: -10rem auto 0 auto;
+  position: relative;
+  width: 80%;
+  border-radius: 1rem;
+  padding: 1rem 1.5rem;
+  background: #fff;
+  box-shadow: 0 0.1rem 0.3rem 0 rgba(0,0,0,.12);
+  text-align: left;
+}
+.article > h2 {
+  margin-top: 0;
+}

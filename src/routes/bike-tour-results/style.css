@@ -1,0 +1,44 @@
+.listitem {
+	text-align: left;
+}
+.listitem span {
+  display: block;
+}
+.listitem .question {
+	color: rgb(46,116,181);
+}
+.listitem--bonus .question {
+	color: #888;
+}
+.listitem .answer {
+	font-weight: bold;
+}
+.listitem--bonus {
+	list-style: none;
+}
+.answerphoto {
+	max-width: 80%;
+	height: auto;
+}
+#showrealanswers {
+	display: none;
+}
+.listitem span.realanswer:before {
+	content:'\20';
+	display: inline-block;
+	width:0;
+	height: 0;
+	margin-right: .4rem;
+	border-left:.4rem solid #777;
+	border-top:.4rem solid transparent;
+	border-bottom: .4rem solid transparent;
+}
+.listitem span.realanswer {
+	transform: rotateX(180deg);
+	transition: color .2s ease-in-out, transform .2s ease-in-out;
+	color: #ebebeb;
+}
+#showrealanswers:checked + ol span.realanswer {
+	transform: rotateX(0);
+	color: #000;
+}

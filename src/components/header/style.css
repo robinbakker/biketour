@@ -1,0 +1,35 @@
+.header {
+	position: absolute;
+  top: 0;
+  z-index: 99;
+  display: block;
+  width: 100%;
+  height: 3rem;
+}
+.start,
+.info {
+	position: absolute;
+	right: 1.2rem;
+  top: .9rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius:100%;
+	background-color:#02bbfe;
+	color: #fff;
+	font-size: 1.8rem;
+	line-height: 1;
+	font-family: 'Bree Serif', serif;
+	font-weight: 600;
+  text-align: center;
+  overflow: hidden;
+  padding: .6rem .75rem;
+	z-index: 2;
+	text-decoration: none !important;
+  box-shadow: 0 0 .4rem rgba(0,0,0,.2);
+}
+.start {
+  text-indent: -50rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 72%;
+}
