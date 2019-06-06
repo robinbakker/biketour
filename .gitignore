@@ -1,8 +1,9 @@
 .firebase
+.firebaserc
 .vscode
 node_modules
 /build
 /*.log
 *.lock
 
-package-lock.json
+firebase.json

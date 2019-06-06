@@ -7,7 +7,7 @@ So this is a tiny web app that contains just the bike tour through Camperduin/Gr
 
 🚀 Built with [Preact](https://github.com/developit/preact) - using [Preact CLI](https://github.com/developit/preact-cli)
 
-🚲 Web app: [https://robinbakker.github.io/biketour](https://robinbakker.github.io/biketour) Sorry, in Dutch only now... 
+🚲 Web app: [https://gatochfietsen.web.app](https://gatochfietsen.web.app) Sorry, in Dutch only now... 
 
 ## 🇳🇱 Ga toch fietsen! - Puzzeltocht
 Een fietspuzzeltocht door Camperduin/Groet/Schoorl. Direct te gebruiken als [web app](https://robinbakker.github.io/biketour). Open op mobiel, voeg toe aan je startscherm, fietsen maar.  
@@ -16,7 +16,7 @@ De fietstocht gaat voor het grootste deel over fietspaden door het natuurgebied 
 
 Het kan natuurlijk goed zijn dat in de loop van tijd wijzigingen op de route zijn (ontbrekende bordjes of verlegde paden), dus houdt dat in het achterhoofd.
 
-🚲 Web app: [https://robinbakker.github.io/biketour](https://robinbakker.github.io/biketour)
+🚲 Web app: [https://gatochfietsen.web.app](https://gatochfietsen.web.app)
 
 ## License
 MIT © Ton van der Kuij, [Robin Bakker](https://robinbakker.nl)
