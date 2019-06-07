@@ -219,7 +219,7 @@ export default class BikeTour extends Component {
 					<button id={style.buttonloc} onClick={this.getMyLocation} title="Mijn locatie"></button>
 					<button id={style.buttonnext} class={style['loc' + this.state.currentLocationIndex]} onClick={this.goNext}>Volgende</button>
 				</div>
-				<h2 class={style.pagecaption + ' page-title icon icon--bike-tour'}>Fietspuzzeltocht</h2>
+				<h2 class={style.pagecaption + ' page-title'}>Fietspuzzeltocht</h2>
 				<article class={style.touritemwrapper + ' page-content'}>
 					<div id={'loc01'} class={style.navitem}>
 				    <div class={style.card}>

@@ -166,18 +166,6 @@ h2.pagecaption {
 	background: #fff;
 	box-shadow: 0 .1rem .3rem 0 rgba(0,0,0,.12);
 }
-@media (min-width:768px){
-	/* #footernav {
-		width:75vw;
-	} */
-	/* .touritemwrapper {
-		position: relative;
-	}
-	.navitem {
-		width: 100%;
-		flex: 1 0 100%;
-	} */
-}
 .kmtitle {
 	color: rgba(0,0,0,.5);
 	margin: 0 0 -.8rem -1.5rem;
